@@ -38,4 +38,4 @@ Preview of ORDERS Page:-
 
 
 Preview of MANAGE ORDERS Page:- 
-![alt text](https://github.com/Varuneshag/Invoice_Generator/blob/ab0912b0876ed4b3590a12d5db45b6e0bfdaf42d/manage%20orders.png)
+![alt text](https://github.com/Varuneshag/Invoice_Generator/blob/d2982cdb8e5226568506dc7e127124c0ff2b695d/Manage%20Orders.png)
