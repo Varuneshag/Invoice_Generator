@@ -37,5 +37,5 @@ Preview of ORDERS Page:-
 ![alt text](https://github.com/Varuneshag/Invoice_Generator/blob/f485e943c7256bb27eb1b38caae3b5296f48f1cb/Order%20page.png)
 
 
-Preview of MANAGE ORDER Page:- 
-
+Preview of MANAGE ORDERS Page:- 
+![alt text](https://github.com/Varuneshag/Invoice_Generator/blob/ab0912b0876ed4b3590a12d5db45b6e0bfdaf42d/manage%20orders.png)
