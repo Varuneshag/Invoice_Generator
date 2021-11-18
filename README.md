@@ -29,7 +29,13 @@ Steps to use 👍
 HTML 
 CSS 
 PHP 
+JavaScript
 Bootstrap 
-Ajax
 
-Preview of ORders Page:- 
+
+Preview of ORDERS Page:- 
+![alt text](https://github.com/Varuneshag/Invoice_Generator/blob/f485e943c7256bb27eb1b38caae3b5296f48f1cb/Order%20page.png)
+
+
+Preview of MANAGE ORDER Page:- 
+
